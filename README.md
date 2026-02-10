@@ -1,5 +1,5 @@
 
-# ReMa: Recursive Multimodal Agent
+# ReMA: Recursive Multimodal Agent
 
 [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-A42C25?style=flat&logo=arXiv&logoColor=A42C25)](https://arxiv.org/abs/xxxx.xxxxx)
 [![hf_dataset](https://img.shields.io/badge/%F0%9F%A4%97-MM%E2%80%90Lifelong-9C276A.svg)](https://huggingface.co/datasets/CG-Bench/MM-Lifelong)
@@ -7,7 +7,7 @@
 
 This repository contains the official implementation of the paper [Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline](https://arxiv.org/abs/xxxx.xxxxx), which employs dynamic memory management to iteratively update a recursive belief state, significantly outperforming existing methods on lifelong context.
 
-## Update
+## News
 - **2026/02/10**: Initial release of the codebase and dataset.
 
 ## Installation
